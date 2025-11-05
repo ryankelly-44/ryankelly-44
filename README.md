@@ -12,17 +12,24 @@ Here are some ideas to get you started:
 
 # Ryan Kelly <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-**`Bioinformatician (NGS/Mouse Genetics/Organoid models)`**
+**🧬 Bioinformatician | 💻 NGS | 🐭 Mouse Genetics | 🧫 Organoid Modelling**
 
-I'm a 
+I'm working on it. 
 
 ---
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
-[![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,github,ai,vscode)](https://skillicons.dev)
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,github,ai,vscode)](https://skillicons.dev)
+  <br>
   <img alt="My GitHub contributions snake" src="https://raw.githubusercontent.com/ryankelly-44/ryankelly-44/output/github-contribution-grid-snake.svg" />
+  <br><em>It'll get better... 🐍</em>
+</div>
+
+<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryankelly-44&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 
