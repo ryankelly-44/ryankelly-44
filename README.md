@@ -26,10 +26,4 @@ I'm working on it.
   <br><em>It'll get better... 🐍</em>
 </div>
 
-<!-- GitHub Stats & Top Languages -->
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryankelly-44&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 
